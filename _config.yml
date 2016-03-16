@@ -6,10 +6,11 @@
 name: James Co
 
 # Short bio or description (displayed in the header)
-description: Frontend Web Developer from San Francisco, CA
+description: Frontend Web Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/s_bg.png
+#avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/s_bg.png
+avatar: https://hcamdclk8.github.io/images/s_bg.png
 
 #
 # Flags below are optional
