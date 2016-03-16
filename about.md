@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: My Self-Summary
 permalink: /about/
 ---
 
-##My self-summary##
+
 By product of an immersive coding bootcamp, up and coming front end web developer with over 15 years experience in project management, data operations and business operations.
 
 I've been involved with technologies ever since I started my career in the US in the late 90s. I like to build things, whether a project plan, a test strategy, a process improvement document or writing user manuals. I'm familiar with software development so it is only befitting that I've decided to switch careers to become a front end web developer. In the advent of IoT, I'd like to be intimate with developing software that improve user experience, has a large impact and improve people's lives while solving problems along the way.
