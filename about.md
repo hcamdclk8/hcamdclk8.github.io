@@ -71,5 +71,7 @@ Did you know that I once went hang gliding ?
 
 [Resume](https://drive.google.com/file/d/0B6LI39S3y_-yWUx6XzJ4bW1HVDg/view)
 
-[GitHub](https://github.com/hcamdclk8)   
-[LinkedIn](https://www.linkedin.com/in/jamescojr)
+![https://hcamdclk8.github.io/images/git_logo.png](https://github.com/hcamdclk8)   
+[https://hcamdclk8.github.io/images/lkd_logo.png](https://www.linkedin.com/in/jamescojr)
+
+![alt text](https://hcamdclk8.github.io/images/lkd_logo.png "https://www.linkedin.com/in/jamescojr")
