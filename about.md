@@ -25,10 +25,11 @@ All codes are on **GitHub** :
  
  2. Refactored music [player](https://github.com/hcamdclk8/bloc-jams-angular.git) using **AngularJS**.
  3. Built a [Superman Trivia](https://github.com/hcamdclk8/SupermanTrivia.git) app for **Amazon ECHO** (**Alexa** skill set), certified and published by Amazon as of 3/16/2016.
- 4. Built a [US History Factoid](https://github.com/hcamdclk8/US-history-Facts.git) app for **Amazon ECHO** (**Alexa** skill set), currently awaiting certification by Amazon for publication.
+ 4. Built a [US History Factoid](https://github.com/hcamdclk8/US-history-Facts.git) app for **Amazon ECHO** (**Alexa** skill set), certified and published by Amazon as of 3/22/2016.
  5. Built a [Madonna - Queen Of Pop Trivia](https://github.com/hcamdclk8/QueenOfPopTrivia.git) app for **Amazon ECHO** (**Alexa** skill set), certified and published by Amazon as of 3/21/2016.
  6. Built a [Name That Tune Trivia](https://github.com/hcamdclk8/NameThatSongTrivia.git) app for **Amazon ECHO** (**Alexa** skill set), certified and published by Amazon as of 3/23/2016.
- 7. Deployed an [app](https://github.com/hcamdclk8/starbot.git) on **Heroku** and integrated it with **Slack** via an **API**.
+ 7. Built a [Michael Jackson Trivia](https://github.com/hcamdclk8/KingOfPopTrivia.git) app for **Amazon ECHO** (**Alexa** skill set), certified and published by Amazon as of 3/25/2016.
+ 8. Deployed an [app](https://github.com/hcamdclk8/starbot.git) on **Heroku** and integrated it with **Slack** via an **API**.
 
 In development is another Alexa Skill that involves getting air quality index/ratings using APIs by determining user location (geocoding).
 
