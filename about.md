@@ -62,7 +62,7 @@ People person, consensus builder, methodological thinker, highly organized, deta
 ## Personal anecdotes ##
 Did you know that I was able to navigate entire arduous process from F1 to H1 to final US citizenship through self-advocacy and tenacity ?
 
-Did you know that I was able to parlay an unpaid internship into a 9 year progress career path at a growing company through hard work and determination ?
+Did you know that I was able to parlay an unpaid internship into a 9 year progressive career path at a growing company through hard work and determination ?
 
 Did you know that I once went hang gliding ?
 
