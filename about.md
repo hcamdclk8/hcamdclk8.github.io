@@ -71,9 +71,13 @@ Did you know that I once went hang gliding ?
 
 [Email Me](mailto:hcamdclk8@gmail.com)
 
+[James Co Site](http://jamescodev.info.s3-website-us-east-1.amazonaws.com)
+
 [Resume](https://drive.google.com/file/d/0B6LI39S3y_-ySkZNdlhzTFR6dmc/view)
 
 [GitHub](https://github.com/hcamdclk8)   
 [LinkedIn](https://www.linkedin.com/in/jamescojr)
+
+
 
 
