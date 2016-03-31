@@ -6,7 +6,7 @@ title: Air Quality Meter - A Developer's Diary
 ## Designing and Testing Air Quality Meter ##
 
 My previous post detailed why I chose Alexa to build final Bloc project and rational why I picked air quality meter as my
-skill to work on. On this post, I will share the 'how' by sharing what went on as I built and tested this skill. The prevailing approach and guiding principle I utilized was K.I.S.S. - Keep It Simple Sam which is a life philosophy that I 
+skill to work on. On this post, I will share the 'how' by sharing what went on as I built and tested this skill. The prevailing approach and guiding principle I utilized was K.I.S.S. - Keep It Simple Stupid which is a life philosophy that I 
 adhere to.
 
 1. Choose a service
