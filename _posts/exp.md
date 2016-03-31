@@ -23,4 +23,4 @@ adhere to.
 
 [Henry Schaumburger](https://github.com/per4mnce/area-code.git)
 
-![icon](https://github.com/per4mnce/area-code/blob/master/Images/phone108x108.jpg)
+
