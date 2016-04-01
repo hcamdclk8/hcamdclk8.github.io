@@ -58,6 +58,6 @@ My [previous](http://hcamdclk8.github.io/capstone/) post detailed why I chose Al
 
 11. Submit skill for Certification - the reward and crowning moment comes here when I submitted skill for review and certifcation. Though there is no guarantee Amazon will not come back with modifications, it is still a milestone achieved.
 
-This entire process was definitely enriching and helped to reinforce the decision I made to switch careers as developer was not only justified but was a natural progression of my growth.
+This entire process was definitely enriching and satifying. It helped to reinforce the decision I made to switch careers to become a developer was not only justified but is a natural progression of my growth.
 
 
