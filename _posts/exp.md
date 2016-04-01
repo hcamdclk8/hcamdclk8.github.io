@@ -50,7 +50,7 @@ My [previous](http://hcamdclk8.github.io/capstone/) post detailed why I chose Al
 
   Since testing is a very iterative process, by writing out the test data itself, it allowed me to be more efficient during    functional testing. More on this on the next stage in the process.
 
-8. Functional Testing - As mentioned previously about testing being iterative by nature, writing out the test data came useful at this stage. Since I was using the AWS dev console to test, it was easier to cut and paste utterances, invocation and zip codes on the site. This also avoided typos and allowed me to not get distracted on typing but rather on the testing. Finally, being time efficient is important as testing repeated is required to hit certain test scenario.
+8. Functional testing - As mentioned previously about testing being iterative by nature, writing out the test data came useful at this stage. Since I was using the AWS dev console to test, it was easier to cut and paste utterances, invocation and zip codes on the site. This also avoided typos and allowed me to not get distracted on typing but rather on the testing. Finally, being time efficient is important as testing repeated is required to hit certain test scenario.
 
 9. Final code clean up - this step involves removing/adding additionals comments, formatting in terms of indentions or spacing to make it more reader friendly for other developers during code reviews and is performed before final check-in to GitHub and AWS.
 
