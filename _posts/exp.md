@@ -44,16 +44,17 @@ My [previous](http://hcamdclk8.github.io/capstone/) post detailed why I chose Al
   - test by listening how Alexa was speaking out text properly
   - test the intents
 
-I enjoy the drafting the test plan as it allowed me to find vulnerabilities in my code, think about how it functions and best of all, I get to switch roles and put myself as if I was the user. Ultimately, testing is to ensure we make user experience delightful by preventing bugs to go into Production.
+  I enjoy the drafting the test plan as it allowed me to find vulnerabilities in my code, think about how it functions and     best of all, I get to switch roles and put myself as if I was the user. Ultimately, testing is to ensure we make user        experience delightful by preventing bugs to go into Production.
 
 7. Prepare test data - I got exposed to this due to my experience working with testers and involved intimately with the entire SDLC. Sometimes its good to test with mock up data but at times, its important to test with Production data. During this step, I was digging into granular level of defining the data set. Not only is it important to say one would like to test with a valid zip could but actually define what valid zip code to use. 
 
-8. Functional Testing
+Since testing is a very iterative process, by writing out the test data itself, it allowed me to be more efficient during functional testing. More on this on the next stage in the process.
+
+8. Functional Testing - As mentioned previously about testing being iterative by nature, writing out the test data came useful at this stage. Since I was using the AWS dev console to test, it was easier to cut and paste utterances, invocation and zip codes on the site. This also allowed for typos and allowed me to not get distracted on typing but rather on the testing.
+
 9. Final code clean up
 10. Documentation
 11. gather periphenail for AMZN cert
 
-
-[Tide Pooler] (https://github.com/amzn/alexa-skills-kit-js/tree/master/samples/tidePooler)
 
 
