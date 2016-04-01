@@ -22,5 +22,6 @@ adhere to.
 7. gather periphenail for AMZN cert
 
 [Henry Schaumburger](https://github.com/per4mnce/area-code.git)
+[Tide Pooler] (https://github.com/amzn/alexa-skills-kit-js/tree/master/samples/tidePooler)
 
 
