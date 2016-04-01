@@ -48,13 +48,16 @@ My [previous](http://hcamdclk8.github.io/capstone/) post detailed why I chose Al
 
 7. Prepare test data - I got exposed to this due to my experience working with testers and involved intimately with the entire SDLC. Sometimes its good to test with mock up data but at times, its important to test with Production data. During this step, I was digging into granular level of defining the data set. Not only is it important to say one would like to test with a valid zip could but actually define what valid zip code to use. 
 
-Since testing is a very iterative process, by writing out the test data itself, it allowed me to be more efficient during functional testing. More on this on the next stage in the process.
+  Since testing is a very iterative process, by writing out the test data itself, it allowed me to be more efficient during    functional testing. More on this on the next stage in the process.
 
-8. Functional Testing - As mentioned previously about testing being iterative by nature, writing out the test data came useful at this stage. Since I was using the AWS dev console to test, it was easier to cut and paste utterances, invocation and zip codes on the site. This also allowed for typos and allowed me to not get distracted on typing but rather on the testing.
+8. Functional Testing - As mentioned previously about testing being iterative by nature, writing out the test data came useful at this stage. Since I was using the AWS dev console to test, it was easier to cut and paste utterances, invocation and zip codes on the site. This also avoided typos and allowed me to not get distracted on typing but rather on the testing. Finally, being time efficient is important as testing repeated is required to hit certain test scenario.
 
-9. Final code clean up
-10. Documentation
-11. gather periphenail for AMZN cert
+9. Final code clean up - this step involves removing/adding additionals comments, formatting in terms of indentions or spacing to make it more reader friendly for other developers during code reviews and is performed before final check-in to GitHub and AWS.
 
+10. Documentation - this stage involves finalizing the README.md, user documentation for use in the skill card, icons and information needed for certification process by Amazon.
+
+11. Submit skill for Certification - the reward and crowning moment comes here when I submitted skill for review and certifcation. Though there is no guarantee Amazon will not come back with modifications, it is still a milestone achieved.
+
+This entire process was definitely enriching and helped to reinforce the decision I made to switch careers as developer was not only justified but was a natural progression of my growth.
 
 
