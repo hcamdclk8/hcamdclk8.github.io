@@ -29,7 +29,7 @@ All codes are on **GitHub** :
  5. Built a [Madonna - Queen Of Pop Trivia](https://github.com/hcamdclk8/QueenOfPopTrivia.git) app for **Amazon ECHO** (**Alexa** skill set), certified and published by Amazon as of 3/21/2016.
  6. Built a [Name That Tune Trivia](https://github.com/hcamdclk8/NameThatSongTrivia.git) app for **Amazon ECHO** (**Alexa** skill set), certified and published by Amazon as of 3/23/2016.
  7. Built a [Michael Jackson Trivia](https://github.com/hcamdclk8/KingOfPopTrivia.git) app for **Amazon ECHO** (**Alexa** skill set), certified and published by Amazon as of 3/25/2016.
- 8. Deployed an [app](https://github.com/hcamdclk8/starbot.git) on **Heroku** and integrated it with **Slack** via an **API**.
+ 8. Deployed a [chatbot](https://github.com/hcamdclk8/starbot.git) on **Heroku** and integrated it with **Slack** via an **API**.
  9. Developed and deployed [website](http://jamescodev.info.s3-website-us-east-1.amazonaws.com) on **Amazon Web Services (AWS)**.
  10. Developed an [Air Quality Meter](https://github.com/hcamdclk8/AirQuality.git) app for **Amazon ECHO** (**Alexa** skill set) that provides air quality rating when user provides a 5 digit US zip code. *Pending review* and certification by Amazon as of 4/1/2016.
 
