@@ -37,12 +37,12 @@ All codes are on **GitHub** :
 <!-- Side Projects 
 Personal [homepage](http://hcamdclk8.github.io) that is still under construction. -->
 
-## I’m really good at ##
+## I really excel at ##
 
- - Listening
+ - Listening and collaborating with others
  - Validation/testing since I'm detail oriented (can spot differences given two images)
  - Communicating in all levels of organization
- - Building things
+ - Building and improving things, process improvement is number one endorsed skill in LinkedIn
  - Adapting to change
 
 ## Coding Methodology ##
@@ -54,7 +54,7 @@ Looking to join a growing company as part of the engineering team to apply newly
 From professional development perspective, the next goal is to tackle back-end development especially since I can leverage my database/data knowledge background. Goal is to learn Python, React.js or any other technology that my future employer sees fit to meet business need.
 
 ## Hobbies ##
-When not coding, enjoy outdoor activities like tennis, hiking, walking, biking and skiing. Have known to occasionally binge watch 80's music videos on YouTube.
+When not coding, enjoy outdoor activities like tennis, hiking, walking, biking and skiing. Have been known to occasionally binge watch 80's music videos on YouTube.
 
 ## Soft Skills ##
 People person, consensus builder, methodological thinker, highly organized, detail oriented, collaborator, naturally curious, flexible, quick study, proactive, tenacious, can think on one's feet, easily adapts to situations (i.e. content is like water in RWD).
