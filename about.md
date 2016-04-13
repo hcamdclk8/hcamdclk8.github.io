@@ -44,6 +44,7 @@ Personal [homepage](http://hcamdclk8.github.io) that is still under construction
  - Communicating in all levels of organization
  - Building and improving things, process improvement is number one endorsed skill in LinkedIn
  - Adapting to change
+ - Solving problems
 
 ## Coding Methodology ##
 My philosophy in life is keep it simple. I apply the same tactic in solving complex problems by breaking things in small chunks when coding then prioritizing them. This makes things more manageable in release management, shortens SDLC and allows one to be nimble in responding to new features or bugs.
